@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL:   baseURL = "https://jacky-portfolio-website.netlify.app/"
 languageCode: en-us
-title: Forty
+title: Jacky's Portfolio Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,16 +8,16 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      #AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Liu Yulin.
   blog: {}
-  contact:
+  contact: 
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, NW1 4SA
+        country: UK
+        street: Regent's Parl
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
