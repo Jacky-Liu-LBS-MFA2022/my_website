@@ -1,4 +1,4 @@
-baseURL:   baseURL = "https://jacky-portfolio-website.netlify.app/"
+baseURL: https://jacky-portfolio-website.netlify.app/
 languageCode: en-us
 title: Jacky's Portfolio Website
 theme: forty
@@ -16,7 +16,7 @@ params:
     address:
       - city: London, NW1 4SA
         country: UK
-        street: Regent's Parl
+        street: Regent's Park
         title: London Business School
     buttonClear: Clear
     buttonSend: Send message
