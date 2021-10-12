@@ -81,13 +81,13 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: something about me
+        subtitle: I love London Business Scholl
         title: About me
         url: blogs/risk_return
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        #subtitle: Feugiat Amet Tempus
+        title: DJIA Risk-Return
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
