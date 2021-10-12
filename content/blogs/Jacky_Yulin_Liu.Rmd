@@ -21,7 +21,7 @@ library(here)
 library(janitor)
 ```
 # Task 1:  Biography of `LIU Yulin (Jacky)`
-![Jacky's photo](Jacky_Professional.png){width=10%}
+![Jacky's photo](Jacky_Professional.jpg){width=10%}
 
 ## Background
 * Born and raised in Mainland China
