@@ -27,7 +27,7 @@ params:
       - phone: +44(0)7536971153
         title: UK Phone
       -phone: +86 135 3097 4956
-        title: UK Phone
+        title: Chinese Phone
   custom_css: []
   custom_js: []
   description: Your description
