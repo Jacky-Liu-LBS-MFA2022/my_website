@@ -1,6 +1,6 @@
 baseURL: https://jacky-portfolio-website.netlify.app/
 languageCode: en-us
-title: Jacky's Portfolio Website
+title: Jacky Liu's Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Liu Yulin.
+    title: Hi, I am Jacky Liu and I am a MFA student at London Business School.
   blog: {}
   contact: 
     address:
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    #copyright: Company Name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/jackyyulinliu/
   image: ''
-  name: Your name
+  name: Jacky Liu
   navigation:
     button1:
       - name: Get Started
@@ -81,9 +81,9 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: something about me
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
