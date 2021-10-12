@@ -81,10 +81,10 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: I love London Business Scholl
-        title: About me
-        url: blogs/risk_return
-      - image: pic02.jpg
+        subtitle: I love London Business School!
+        title: My first assignment at LBS
+        url: blogs/aliquam
+      - image: djia.jpg
         #subtitle: Feugiat Amet Tempus
         title: DJIA Risk-Return
         url: blogs/risk_return
