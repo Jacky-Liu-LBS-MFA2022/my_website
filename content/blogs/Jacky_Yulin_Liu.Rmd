@@ -8,10 +8,10 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: pic07.jpg
+#image: pic07.jpg
 keywords: ""
 slug: aliquam
-title: Aliquam
+title: My first R assignment at LBS
 ---
 
 ```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
@@ -21,7 +21,9 @@ library(here)
 library(janitor)
 ```
 # Task 1:  Biography of `LIU Yulin (Jacky)`
-![Jacky's photo](Jacky_Professional.jpg){width=10%}
+```{r photo, echo=FALSE, out.width="30%"}
+knitr::include_graphics("/img/Jacky_Professional.jpg",error =FALSE)
+```
 
 ## Background
 * Born and raised in Mainland China
