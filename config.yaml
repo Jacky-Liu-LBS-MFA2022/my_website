@@ -6,10 +6,10 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
-    #subtitle: |-
-    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, I am Jacky Liu and I am a MFA student at London Business School.
+    buttonText: Know more about my experience
+    subtitle: |-
+      I am studying at London Business School in the MFA2022 cohort.
+    title: Hi, I am Jacky Liu.
   blog: {}
   contact: 
     address:
