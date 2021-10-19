@@ -85,7 +85,7 @@ params:
         title: My first assignment at LBS
         url: blogs/aliquam
       - image: djia.jpg
-        #subtitle: Feugiat Amet Tempus
+        subtitle: I follow the market using R
         title: DJIA Risk-Return
         url: blogs/risk_return
       - image: pic03.jpg
