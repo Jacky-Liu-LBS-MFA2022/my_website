@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Know more about my experience
+    buttonText: Click to know more about me
     subtitle: |-
       I am studying at London Business School in the MFA2022 cohort.
     title: Hi, I am Jacky Liu.
@@ -25,7 +25,8 @@ params:
     enable: yes
     phone:
       - phone: +44(0)7536971153
-        title: Phone
+        title: UK Phone
+        
   custom_css: []
   custom_js: []
   description: Your description
@@ -59,42 +60,36 @@ params:
   image: ''
   name: Jacky Liu
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+    #button1:
+     # - name: Get Started
+      #  url: blogs
+    #button2:
+     # - name: Log In
+     #   url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
+      - name: My Hometown
+        url: blogs/magna
+      - name: My Hobbies
         url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: My Career
+        url: https://www.linkedin.com/in/jackyyulinliu/
     menu: Menu
    # subtitle: By HTML5 Up
     title: Home
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: I love London Business School!
-        title: My first assignment at LBS
-        url: blogs/aliquam
-      - image: djia.jpg
-        subtitle: I follow the market using R
-        title: DJIA Risk-Return
-        url: blogs/risk_return
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+
+      - image: shenzhen.jpg
+        subtitle: Shenzhen, China
+        title: Where I come from
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        
+      - image: football.jpg
+        subtitle: Football, Badminton, F1, Scuba
+        title: My hobbies
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
@@ -104,14 +99,23 @@ params:
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+        
+      - image: lbs.jpg
+        subtitle: My first R assignment at LBS
+        title: My School Work
+        url: blogs/aliquam
+      - image: djia.jpg
+        subtitle: I follow the market using R
+        title: DJIA Risk-Return
+        url: blogs/risk_return
+#  two:
+   # buttonText: Get Started
+   # enable: yes
+   # subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+   #   \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
+   #   condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+   #   pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
+   #   Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
+   #   amet pharetra et feugiat tempus."
+    #title: Massa libero
+  #  url: blogs
