@@ -75,6 +75,8 @@ params:
         url: blogs/ipsum
       - name: My Career
         url: https://www.linkedin.com/in/jackyyulinliu/
+      - name: My School
+        url: https://www.london.edu/
     menu: Menu
    # subtitle: By HTML5 Up
     title: Home
@@ -91,22 +93,22 @@ params:
         subtitle: Football, Badminton, F1, Scuba
         title: My hobbies
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+ #     - image: pic05.jpg
+ #       subtitle: Ipsum Dolor Sit Amet
+  #      title: Consequat
+  #      url: blogs/ipsum
+  #    - image: pic06.jpg
+  #      subtitle: Feugiat Amet Tempus
+  #      title: Etiam
+   #     url: blogs/ipsum
         
       - image: lbs.jpg
         subtitle: My first R assignment at LBS
         title: My School Work
         url: blogs/aliquam
       - image: djia.jpg
-        subtitle: I follow the market using R
-        title: DJIA Risk-Return
+        subtitle: Insights on the stock market
+        title: My Stocks 
         url: blogs/risk_return
 #  two:
    # buttonText: Get Started
